@@ -8,3 +8,6 @@ Here are some ideas to get you started:
 - 💬 Quaisquer dúvidas sobre aprendizagem me envia, ensinar as pessoas a aprenderem a estudar é ótimo nessa era de acesso a informações via internet :)
 - 📫 Manda um whats: (48)998648011
 
+##Mais informações sobre meus conhecimentos:
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?PedrodeCTedesco=anuraghazra&hide=contribs,prs)
