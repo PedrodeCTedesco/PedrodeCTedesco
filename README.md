@@ -10,4 +10,6 @@ Here are some ideas to get you started:
 
 ##Mais informações sobre meus conhecimentos:
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?PedrodeCTedesco=anuraghazra&hide=contribs,prs)
+![PedrodeCTedesco's Stats](https://github-readme-stats.vercel.app/api?username=PedrodeCTedesco&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+
+![PedrodeCTedesco's Streak](https://github-readme-streak-stats.herokuapp.com/?user=PedrodeCTedesco&theme=vue-dark&hide_border=true)
