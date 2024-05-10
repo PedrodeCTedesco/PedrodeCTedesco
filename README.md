@@ -1,7 +1,7 @@
 ### Olá! Espero que esteja tudo bem com você 👋
 
 Atualmente estou atuando como desenvolvedor de software na Urupê. 
-Na Urupê tuo no front com Vue.js, no banco de dados com Prisma (o banco roda em PostgreSQL) e no back com Nest/JS. 
+Na Urupê atuo no front com Vue.js, no banco de dados com Prisma (o banco roda em PostgreSQL) e no back com Nest/JS. 
 
 Além disso, algumas coisas sobre minha atuação como desenvolvedor de software e analista de sistemas:
 
