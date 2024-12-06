@@ -1,13 +1,15 @@
 ### Olá! Espero que esteja tudo bem com você 👋
 
-Atualmente estou atuando como desenvolvedor de software na Urupê. 
-Na Urupê atuo no front com Vue.js, no banco de dados com Prisma (o banco roda em PostgreSQL) e no back com Nest/JS. 
+Atualmente estou atuando como desenvolvedor de software pleno na Cria Digital. 
+
+Stacks:
+- Node.js/NestJS;
+- Docker;
+- PostgreSQL;
 
 Além disso, algumas coisas sobre minha atuação como desenvolvedor de software e analista de sistemas:
 
-- 🔭 Atualmente além das tecnologias em Javascript e Typescript também estudo Java. No futuro, busco me tornar um Arquiteto de Software para essas linguagens;
-- 🌱 Focos atuais de aprendizagem em Java: Spring e Spring Boot; foco atual de aprendizagem em Javascript/Typescript: Next e Vue;
-- 👯 Disponível para projetos em Java ou Javascript/Typescript. Tenho um projeto atual de um site que utilizo Next/JS;
+- 👯 Disponível para projetos em Java ou Javascript/Typescript;
 - 💬 Quaisquer dúvidas sobre aprendizagem me envia, ensinar as pessoas a aprenderem a estudar é ótimo nessa era de acesso a informações via internet :)
 - 📫 Manda um whats: (48)998648011
 
